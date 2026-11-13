@@ -1,0 +1,18 @@
+.nav-item .nav-link.active {
+  text-decoration: underline;
+}
+
+.carousel-image{
+    width: 100%;
+    aspect-ratio: 5/2;
+    object-fit: cover;
+}
+footer{
+    padding: 2rem 0;
+}
+section{
+    padding: 2rem 0;
+}
+section + section{
+    padding-top: 0;
+}
